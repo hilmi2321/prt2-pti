@@ -1,3 +1,4 @@
 1.Datang Ke UNIKOM    : 07.00
 2.Makan Siang         : 13.00
 3.Pulang Dari UNIKOM  : 16.00
+4.Nugas               : 18.00
